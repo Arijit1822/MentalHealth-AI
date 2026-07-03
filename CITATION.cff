@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our paper."
+authors:
+  - family-names: "Dey"
+    given-names: "Arijit"
+  - family-names: "Biswas"
+    given-names: "Dipanjana"
+  - family-names: "Acharjee"
+    given-names: "Kallol"
+title: "Adaptive Hybrid AI System For Predicting And Preventing Global Mental Health Crises: Review And Proposed Solution"
+journal: "INTERNATIONAL JOURNAL OF RESEARCH AND ANALYTICAL REVIEWS (IJRAR)"
+volume: 12
+issue: 3
+pages: "85-94"
+date-released: 2025-08-14
+doi: "10.13140/RG.mock.IJRAR25C2267"
+url: "http://www.ijrar.org/viewfull.php?&p_id=IJRAR25C2267"
