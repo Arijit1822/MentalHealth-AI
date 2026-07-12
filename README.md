@@ -14,7 +14,7 @@
 
 ---
 
-## 📖 Overview
+## 📖 Overview:
 
 Mental health disorders continue to affect millions of people worldwide, while many existing AI-based systems still struggle with personalization, adaptability, and transparency.
 
