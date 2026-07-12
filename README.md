@@ -20,7 +20,7 @@ Mental health disorders continue to affect millions of people worldwide, while m
 
 This research proposes a **Hybrid Artificial Intelligence Framework** that combines **social media sentiment analysis**, **self-reported psychological assessments**, **Explainable AI (XAI)**, and **Reinforcement Learning** to deliver adaptive, transparent, and personalized mental health risk prediction and prevention.
 
-The proposed framework is designed to support **early intervention**, **continuous learning**, and **ethical AI-driven decision making** for real-world mental healthcare applications.
+The proposed framework is designed to support **early intervention**, **continuous learning**, and **ethical AI-driven decision making** for real-world mental healthcare applications..
 
 ---
 
